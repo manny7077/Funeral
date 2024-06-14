@@ -54,7 +54,7 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "with finance team in South Africa",
+    title: "With finance team in South Africa",
     description: "",
     image: "/Images/Image9.jpeg",
     tag: ["All", "Web"],
