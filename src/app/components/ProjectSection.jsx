@@ -143,7 +143,7 @@ const ProjectsSection = () => {
   return (
     <section id='projects'>
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-        Gallery
+       Photo Gallery
       </h2>
       <ul ref={ref} className="grid md:grid-cols-3 gap-8 md:gap-12">
         {filteredProjects.slice(0, showMore ? filteredProjects.length : initialProjectsCount).map((project, index) => (
